@@ -1,4 +1,4 @@
-Smart House Face Detection
+#Smart House Face Detection
 
 Overview
 This project is aimed at detecting faces in a smart house environment using deep learning techniques. 
