@@ -11,6 +11,7 @@ Evaluation metrics such as accuracy, confusion matrix, and classification report
 Visualization of predictions on custom images
 
 Requirements
+-----------------------------------------------------------------------------------------------------------
 Python 3.x
 TensorFlow 2.x
 NumPy
